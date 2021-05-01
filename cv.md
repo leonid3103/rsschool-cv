@@ -1,4 +1,5 @@
 ---
+
 # Bakhmutov Leonid
 - Contact info: 
 email:leonid2015@yandex.ru, telegram:@leonid3189
@@ -6,6 +7,7 @@ email:leonid2015@yandex.ru, telegram:@leonid3189
 ### Personal summary
 
 > I am actively interested in various technologies and programming languages. I would like to try myself in mobile development.
+
 
 ### Education 
 
